@@ -1,0 +1,146 @@
+/*
+CSS Credit: http://www.templatemo.com/
+*/
+
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+
+.cleaner { clear: both; width: 100%; height: 0px; font-size: 0px;  }
+
+
+
+
+
+
+
+.header_03 {
+	font-family: Verdana;
+	font-weight: bold;
+	clear: both;
+	height: 35px;
+	padding: 15px 0 0 20px;
+	font-size: 24px;
+	color: black;
+	background: url(images/templatemo_header_02_bg.jpg) repeat-x;
+}
+
+.header_04 {
+	clear: both;
+	font-size: 22px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.header_04 a{
+	clear: both;
+	font-size: 24px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+/* menu */
+
+
+/* content */
+
+#templatemo_content_wrapper {
+	clear: both;
+	margin: 0 auto;
+	background: #ffffff;
+	float: left;
+	margin-left: -30px;
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#templatemo_content {
+	width: 550px;
+	background: #ffffff;
+}
+
+#column_w530 {
+	width: 550px;
+	line-height: 20px;
+	background: #ffffff;
+}
+
+#column_w300 {
+	float: right;
+	width: 550px;
+	background: #efefef;
+	border: 1px solid #e5e5e5;
+}
+
+#column_w530 .em_text {
+	color: #000;
+}
+
+#column_w530 p {
+	margin-bottom: 15px;
+}
+
+.column_w300_section_01 {
+	clear: both;
+	padding: 20px 19px;
+	background: url(images/templatemo_side_column_divider.jpg) bottom repeat-x;
+}
+
+.even_color {
+	background: #e0dfdf;
+}
+
+.news_image_wrapper {
+	float: left;
+	width: 70px;
+	height: 70px;
+	padding: 4px;
+	margin: 3px 0 0 0;
+	border: 1px solid #dad8d8;
+	background: #ffffff;
+}
+
+.news_image_wrapper img{
+	width: 69px;
+	height: 69px;
+	border: 1px solid #9c9d85;
+}
+
+.news_content {
+	float: right;
+	width: 350px;
+}
+
+.news_content .news_date {
+	font-size: 18px;
+	color: #9a9a9a;
+}
+
+.news_content p{
+	line-height: 15px;
+	font-size: px;
+}
+
+/* end of content
+
+
+.section_w180 {
+	float: left;
+	width: 160px;
+	padding: 0 20px 0 0;	
+}
+
+.section_w180_content {
+	padding: 0 0 0 20px;
+}
+
+
+/* end of footer */
